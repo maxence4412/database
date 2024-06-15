@@ -1,0 +1,19 @@
+{
+  "users" : [
+    {
+      "id": 1,
+      "name": "Jacques",
+      "email": "jacques.mirlo@aol.com"
+    },
+    {
+      "id": 2,
+      "name": "Jean",
+      "email": "jean.potchik@aol.com"
+    },
+    {
+      "id": 3,
+      "name": "Benoît",
+      "email": "benoit.desloges@aol.com"
+    }
+  ]
+}
